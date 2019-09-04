@@ -1,0 +1,182 @@
+{
+  "crs": 4326,
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.940756,
+          53.421534
+        ]
+      },
+      "type": "Feature",
+      "id": 1460,
+      "properties": {
+        "url": "/0000026027/0001/",
+        "csv_file": "/data/month/26027_0001.csv",
+        "station.name": "Ballybofey",
+        "value": 4,
+        "datetime": "2019-05-17 13:16:00+00:00",
+        "sensor.ref": "0001",
+        "station.ref": "0000026027",
+        "station.region_id": 2,
+        "err_code": 99
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.546362000000004,
+          53.674948
+        ]
+      },
+      "type": "Feature",
+      "id": 911,
+      "properties": {
+        "url": "/0000032013/OD/",
+        "csv_file": "/data/month/32013_OD.csv",
+        "station.name": "Clonconwal",
+        "value": 1,
+        "datetime": "2019-05-15 19:00:00+00:00",
+        "sensor.ref": "OD",
+        "station.ref": "0000032013",
+        "station.region_id": 11,
+        "err_code": 99
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.834877000000004,
+          54.01308099999999
+        ]
+      },
+      "type": "Feature",
+      "id": 991,
+      "properties": {
+        "url": "/0000034009/0001/",
+        "csv_file": "/data/month/34009_0001.csv",
+        "station.name": "Gartan Bridge",
+        "value": 1.65,
+        "datetime": "2019-05-15 19:00:00+00:00",
+        "sensor.ref": "0001",
+        "station.ref": "0000034009",
+        "station.region_id": 3,
+        "err_code": 99
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.238554,
+          53.361687
+        ]
+      },
+      "type": "Feature",
+      "id": 1458,
+      "properties": {
+        "url": "/0000026007/OD/",
+        "csv_file": "/data/month/26007_OD.csv",
+        "station.name": "Sandy Mills",
+        "value": 2.86,
+        "datetime": "2019-05-15 19:00:00+00:00",
+        "sensor.ref": "OD",
+        "station.ref": "0000026007",
+        "station.region_id": 2,
+        "err_code": 99
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.238554,
+          53.361687
+        ]
+      },
+      "type": "Feature",
+      "id": 521,
+      "properties": {
+        "url": "/0000026007/0002/",
+        "csv_file": "/data/month/26007_0002.csv",
+        "station.name": "Tullyarvan",
+        "value": 1.59,
+        "datetime": "2019-05-15 19:00:00+00:00",
+        "sensor.ref": "0002",
+        "station.ref": "0000026007",
+        "station.region_id": 2,
+        "err_code": 99
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.238554,
+          53.361687
+        ]
+      },
+      "type": "Feature",
+      "id": 841,
+      "properties": {
+        "url": "/0000026007/0003/",
+        "csv_file": "/data/month/26007_0003.csv",
+        "station.name": "Bellagill",
+        "value": 9.87,
+        "datetime": "2019-05-15 19:00:00+00:00",
+        "sensor.ref": "0003",
+        "station.ref": "0000026007",
+        "station.region_id": 2,
+        "err_code": 99
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9188661951064985,
+          53.886635663816314
+        ]
+      },
+      "type": "Feature",
+      "id": 987,
+      "properties": {
+        "url": "/0000026015/0003/",
+        "csv_file": "/data/month/26015_0003.csv",
+        "station.name": "Corrascoffy",
+        "value": 3.88,
+        "datetime": "2019-05-15 19:00:00+00:00",
+        "sensor.ref": "0003",
+        "station.ref": "0000026015",
+        "station.region_id": 1,
+        "err_code": 99
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.221440988462057,
+          53.79804067873333
+        ]
+      },
+      "type": "Feature",
+      "id": 1609,
+      "properties": {
+        "url": "/0000006060/1300/",
+        "csv_file": "/data/month/06060_1300.csv",
+        "station.name": "Port Oriel",
+        "value": 10.65,
+        "datetime": "2013-01-02 04:20:00+00:00",
+        "sensor.ref": "1300",
+        "station.ref": "0000006060",
+        "station.region_id": 10,
+        "err_code": 99
+      }
+    }
+  ]
+}
